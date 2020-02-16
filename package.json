@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/azharisikumbang/php-starter-template/issues"
   },
-  "homepage": "https://github.com/azharisikumbang/php-starter-template#readme"
+  "homepage": "https://github.com/azharisikumbang/php-starter-template#readme",
+  "devDependencies": {
+    "laravel-mix": "^5.0.1"
+  }
 }
