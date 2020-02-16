@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/azharisikumbang/php-starter-template#readme",
   "devDependencies": {
+    "cross-env": "^7.0.0",
     "laravel-mix": "^5.0.1"
   }
 }
