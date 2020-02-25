@@ -11,6 +11,7 @@ And, this project was inspirated by Web Programming Unpas on Youtube Channel on 
 For getting started on your local machine, you can clone this repository to your project folder
 
 ```bash
+cd your-project-folder
 git clone https://github.com/azharisikumbang/php-starter-template.git
 ```
 
@@ -20,4 +21,8 @@ Then, run this command for installing all dependency for project
 npm install
 ```
 
-Now, running your project on browser
+Now, open your project on browser
+
+```bash
+http://localhost/your-project-folder
+```
