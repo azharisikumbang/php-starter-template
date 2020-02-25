@@ -8,7 +8,12 @@ And, this project was inspirated by Web Programming Unpas on Youtube Channel on 
 
 ## Getting Started
 
-For getting started on your local machine, you can clone this repository to your project folder
+Before running this project on your local machine, you need to install
+- PHP 7.1.0 or latest
+- NodeJS v8.10.0 or latest
+- npm v3.5.0 or latest
+
+To getting started, you can clone this repository to your project folder in web server
 
 ```bash
 cd your-project-folder
