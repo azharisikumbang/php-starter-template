@@ -19,7 +19,7 @@ foreach ($environment as $key => $value) {
     putenv(strtoupper($key)."=".$value);
 }
 
-# adapted from codeigniter
+# adapted from codeigniter with modified
 switch (getenv("STATUS")) {
     case 'development':
 		error_reporting(E_ALL);
