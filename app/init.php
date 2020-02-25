@@ -5,6 +5,11 @@
 
 # Environtment File Location
 $env_file = "./environment.json";
+if (!file_exists($env_file)) {
+    header('HTTP/1.1 503 Service Unavailable.', TRUE, 503);
+    echo 'Environment file doesn\'t exists!';
+    exit(1);
+}
 
 # Getting app environment contents
 $content = file_get_contents($env_file);
