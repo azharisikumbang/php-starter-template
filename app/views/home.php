@@ -1,4 +1,4 @@
 <div style="text-align:center">
-  <h1>PHP MVC Starter Template</h1>
-  <p>View on <a href="#">https://github.com/azharisikumbang/php-starter-template</a></p>
+  <h1><?= getenv("NAME") ?></h1>
+  <p>Your app running on <a href="<?= getenv("URL") ?>"><?= getenv("URL") ?></a></p>
 </div>
