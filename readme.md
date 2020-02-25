@@ -1,8 +1,10 @@
-# PHP-Starter-Template
+# PHP Starter Template
 
 PHP Starter Template is a starter template for building a Small PHP Project based on MVC Concept. It is mostly personal used, and you can use this project to build your small project faster, like friend project, campuss task or another.
 
 Actually, PHP starter template is my personal project for build a toolkit to learn software engineering. In this project, I learn how to use git and github, how to versioning, how to code on oop paradigm and mvc concept and another requirement for software development.
+
+And, this project was inspirated by Web Programming Unpas on Youtube Channel on MVC Playlist, thanks to the mentor.
 
 ## Getting Started
 
