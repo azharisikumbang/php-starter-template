@@ -1,5 +1,5 @@
 {
     "name": "Your App",
-    "status": "development|testing|production",
+    "status": "development",
     "url": "http://localhost/php-starter-template/"
 }
